@@ -1,0 +1,243 @@
+2018-11-15 10:52:13,140 INFO  [main] - Load config: /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 10:52:13,176 INFO  [main] - trapd config file: /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 10:52:13,177 INFO  [main] - agent.xml exists:/home/chicolir/.imibrowser/agent.xml
+2018-11-15 10:52:13,234 INFO  [main] - MIB browser:12.0.4512. Enterprise:false. Professional:false. Jversion:11.0.1; OS:Linux-4.18.0-kali2-amd64
+2018-11-15 10:52:13,234 INFO  [main] - start creating frame
+2018-11-15 10:52:13,243 INFO  [main] - To create main window
+2018-11-15 10:52:13,314 INFO  [main] - To create MIB tree
+2018-11-15 10:52:13,497 INFO  [Thread-0] - Created a UIMibTree. Thread:Thread-0
+2018-11-15 10:52:13,498 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 10:52:13,498 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 10:52:13,546 INFO  [Thread-0] - MIB module RFC1213-MIB has been added
+2018-11-15 10:52:13,564 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 10:52:13,564 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 10:52:13,595 INFO  [Thread-0] - MIB module SNMPv2-TC has been added
+2018-11-15 10:52:13,610 INFO  [Thread-0] - MIB module SNMPv2-MIB has been added
+2018-11-15 10:52:13,617 INFO  [Thread-0] - MIB module IANAifType-MIB has been added
+2018-11-15 10:52:13,617 INFO  [Thread-0] - MIB module IF-MIB has been added
+2018-11-15 10:52:13,617 INFO  [Thread-0] - MIB module HOST-RESOURCES-MIB has been added
+2018-11-15 10:52:13,655 INFO  [Thread-0] - Loading time = 157
+2018-11-15 10:52:13,723 INFO  [main] - frame created
+2018-11-15 10:52:59,992 INFO  [AWT-EventQueue-0] - Shutting down...
+2018-11-15 10:52:59,995 INFO  [AWT-EventQueue-0] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 10:52:59,996 INFO  [AWT-EventQueue-0] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 10:53:19,849 INFO  [main] - Load config: /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 10:53:19,885 INFO  [main] - trapd config file: /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 10:53:19,887 INFO  [main] - agent.xml exists:/home/chicolir/.imibrowser/agent.xml
+2018-11-15 10:53:19,928 INFO  [main] - MIB browser:12.0.4512. Enterprise:false. Professional:false. Jversion:11.0.1; OS:Linux-4.18.0-kali2-amd64
+2018-11-15 10:53:19,928 INFO  [main] - start creating frame
+2018-11-15 10:53:19,935 INFO  [main] - To create main window
+2018-11-15 10:53:19,984 INFO  [main] - To create MIB tree
+2018-11-15 10:53:20,080 INFO  [Thread-0] - Created a UIMibTree. Thread:Thread-0
+2018-11-15 10:53:20,081 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 10:53:20,082 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 10:53:20,132 INFO  [Thread-0] - MIB module RFC1213-MIB has been added
+2018-11-15 10:53:20,148 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 10:53:20,148 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 10:53:20,180 INFO  [Thread-0] - MIB module SNMPv2-TC has been added
+2018-11-15 10:53:20,193 INFO  [Thread-0] - MIB module SNMPv2-MIB has been added
+2018-11-15 10:53:20,199 INFO  [Thread-0] - MIB module IANAifType-MIB has been added
+2018-11-15 10:53:20,199 INFO  [Thread-0] - MIB module IF-MIB has been added
+2018-11-15 10:53:20,199 INFO  [Thread-0] - MIB module HOST-RESOURCES-MIB has been added
+2018-11-15 10:53:20,236 INFO  [Thread-0] - Loading time = 155
+2018-11-15 10:53:20,311 INFO  [main] - frame created
+2018-11-15 10:54:03,417 INFO  [AWT-EventQueue-0] - Shutting down...
+2018-11-15 10:54:03,420 INFO  [AWT-EventQueue-0] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 10:54:03,421 INFO  [AWT-EventQueue-0] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:06:58,099 INFO  [main] - Load config: /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:06:58,155 INFO  [main] - trapd config file: /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 11:06:58,157 INFO  [main] - agent.xml exists:/home/chicolir/.imibrowser/agent.xml
+2018-11-15 11:06:58,205 INFO  [main] - MIB browser:12.0.4512. Enterprise:false. Professional:false. Jversion:11.0.1; OS:Linux-4.18.0-kali2-amd64
+2018-11-15 11:06:58,205 INFO  [main] - start creating frame
+2018-11-15 11:06:58,212 INFO  [main] - To create main window
+2018-11-15 11:06:58,259 INFO  [main] - To create MIB tree
+2018-11-15 11:06:58,331 INFO  [Thread-0] - Created a UIMibTree. Thread:Thread-0
+2018-11-15 11:06:58,332 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:06:58,332 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:06:58,379 INFO  [Thread-0] - MIB module RFC1213-MIB has been added
+2018-11-15 11:06:58,397 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:06:58,397 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:06:58,425 INFO  [Thread-0] - MIB module SNMPv2-TC has been added
+2018-11-15 11:06:58,442 INFO  [Thread-0] - MIB module SNMPv2-MIB has been added
+2018-11-15 11:06:58,448 INFO  [Thread-0] - MIB module IANAifType-MIB has been added
+2018-11-15 11:06:58,448 INFO  [Thread-0] - MIB module IF-MIB has been added
+2018-11-15 11:06:58,448 INFO  [Thread-0] - MIB module HOST-RESOURCES-MIB has been added
+2018-11-15 11:06:58,475 INFO  [Thread-0] - Loading time = 143
+2018-11-15 11:06:58,528 INFO  [main] - frame created
+2018-11-15 11:07:39,077 INFO  [AWT-EventQueue-0] - Shutting down...
+2018-11-15 11:07:39,080 INFO  [AWT-EventQueue-0] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 11:07:39,081 INFO  [AWT-EventQueue-0] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:10:10,091 INFO  [main] - Load config: /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:10:10,144 INFO  [main] - trapd config file: /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 11:10:10,145 INFO  [main] - agent.xml exists:/home/chicolir/.imibrowser/agent.xml
+2018-11-15 11:10:10,191 INFO  [main] - MIB browser:12.0.4512. Enterprise:false. Professional:false. Jversion:1.8.0_111; OS:Linux-4.18.0-kali2-amd64
+2018-11-15 11:10:10,191 INFO  [main] - start creating frame
+2018-11-15 11:10:10,201 INFO  [main] - To create main window
+2018-11-15 11:10:10,247 INFO  [main] - To create MIB tree
+2018-11-15 11:10:10,356 INFO  [Thread-0] - Created a UIMibTree. Thread:Thread-0
+2018-11-15 11:10:10,357 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:10:10,357 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:10:10,381 INFO  [Thread-0] - MIB module RFC1213-MIB has been added
+2018-11-15 11:10:10,393 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:10:10,393 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:10:10,418 INFO  [Thread-0] - MIB module SNMPv2-TC has been added
+2018-11-15 11:10:10,430 INFO  [Thread-0] - MIB module SNMPv2-MIB has been added
+2018-11-15 11:10:10,435 INFO  [Thread-0] - MIB module IANAifType-MIB has been added
+2018-11-15 11:10:10,435 INFO  [Thread-0] - MIB module IF-MIB has been added
+2018-11-15 11:10:10,436 INFO  [Thread-0] - MIB module HOST-RESOURCES-MIB has been added
+2018-11-15 11:10:10,463 INFO  [Thread-0] - Loading time = 107
+2018-11-15 11:10:10,535 INFO  [main] - frame created
+2018-11-15 11:11:32,961 INFO  [AWT-EventQueue-0] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 11:11:32,962 INFO  [AWT-EventQueue-0] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:11:32,963 INFO  [AWT-EventQueue-0] - UIMibTree.repaintAll ...
+2018-11-15 11:11:32,964 INFO  [Thread-3] - Created a UIMibTree. Thread:Thread-3
+2018-11-15 11:11:32,965 INFO  [Thread-3] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:11:32,965 INFO  [Thread-3] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-15 11:11:32,976 INFO  [Thread-3] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:11:32,976 INFO  [Thread-3] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-15 11:11:32,979 INFO  [Thread-3] - To load MIB: /home/chicolir/Downloads/FORTINET-FORTIGATE-MIB.mib
+2018-11-15 11:11:32,979 INFO  [Thread-3] - Load raw mib:/home/chicolir/Downloads/FORTINET-FORTIGATE-MIB.mib
+2018-11-15 11:11:33,008 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fnAdminAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,009 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fnAdminAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,010 ERROR [Thread-3] - Unknown SNMP data type: InetAddressPrefixLength (of node fnAdminMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,010 INFO  [Thread-3] - MIB module FORTINET-CORE-MIB has been added
+2018-11-15 11:11:33,034 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fnAdminAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,035 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fnAdminAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,036 ERROR [Thread-3] - Unknown SNMP data type: InetAddressPrefixLength (of node fnAdminMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,037 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fgVdTpMgmtAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,038 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fgVdTpMgmtAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,039 ERROR [Thread-3] - Unknown SNMP data type: InetAddressPrefixLength (of node fgVdTpMgmtMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,040 ERROR [Thread-3] - Unknown SNMP data type: Ipv6Address (of node fgManIfIp6).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,041 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWebCacheDiskLimit).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,042 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWebCacheDiskUsage).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,043 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptLanTraffic).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,044 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptWanTraffic).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,045 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptDiskLimit).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,046 ERROR [Thread-3] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptDiskUsage).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,047 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgIpSessFromPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,048 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgIpSessToPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,048 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntRemGwyPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,049 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntLocGwyPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,049 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntSelectorSrcPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,050 ERROR [Thread-3] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntSelectorDstPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,051 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fgWcWtpSessionWtpIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,051 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fgWcWtpSessionWtpIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,052 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fgWcWtpSessionWtpLocalIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,052 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fgWcWtpSessionWtpLocalIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,053 ERROR [Thread-3] - Unknown SNMP data type: InetAddressType (of node fgWcStaIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,054 ERROR [Thread-3] - Unknown SNMP data type: InetAddress (of node fgWcStaIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-15 11:11:33,054 INFO  [Thread-3] - MIB module FORTINET-FORTIGATE-MIB has been added
+2018-11-15 11:11:33,061 INFO  [Thread-3] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-15 11:11:33,062 INFO  [Thread-3] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-15 11:11:33,068 INFO  [Thread-3] - Loading time = 104
+2018-11-17 08:32:16,412 INFO  [main] - Load config: /home/chicolir/.imibrowser/mibbrowser.xml
+2018-11-17 08:32:16,446 INFO  [main] - trapd config file: /home/chicolir/.imibrowser/trapd.xml
+2018-11-17 08:32:16,448 INFO  [main] - agent.xml exists:/home/chicolir/.imibrowser/agent.xml
+2018-11-17 08:32:16,473 INFO  [main] - MIB browser:12.0.4512. Enterprise:false. Professional:false. Jversion:1.8.0_111; OS:Linux-4.18.0-kali2-amd64
+2018-11-17 08:32:16,473 INFO  [main] - start creating frame
+2018-11-17 08:32:16,482 INFO  [main] - To create main window
+2018-11-17 08:32:16,523 INFO  [main] - To create MIB tree
+2018-11-17 08:32:16,567 INFO  [Thread-0] - Created a UIMibTree. Thread:Thread-0
+2018-11-17 08:32:16,567 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-17 08:32:16,567 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/RFC1213-MIB
+2018-11-17 08:32:16,598 INFO  [Thread-0] - MIB module RFC1213-MIB has been added
+2018-11-17 08:32:16,615 INFO  [Thread-0] - To load MIB: /home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-17 08:32:16,615 INFO  [Thread-0] - Load raw mib:/home/chicolir/Root/opt/ireasoning/mibbrowser/mibs/HOST-RESOURCES-MIB
+2018-11-17 08:32:16,648 INFO  [Thread-0] - MIB module SNMPv2-TC has been added
+2018-11-17 08:32:16,661 INFO  [Thread-0] - MIB module SNMPv2-MIB has been added
+2018-11-17 08:32:16,668 INFO  [Thread-0] - MIB module IANAifType-MIB has been added
+2018-11-17 08:32:16,668 INFO  [Thread-0] - MIB module IF-MIB has been added
+2018-11-17 08:32:16,668 INFO  [Thread-0] - MIB module HOST-RESOURCES-MIB has been added
+2018-11-17 08:32:16,669 INFO  [Thread-0] - To load MIB: /home/chicolir/Downloads/FORTINET-FORTIGATE-MIB.mib
+2018-11-17 08:32:16,670 INFO  [Thread-0] - Load raw mib:/home/chicolir/Downloads/FORTINET-FORTIGATE-MIB.mib
+2018-11-17 08:32:16,688 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fnAdminAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,689 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fnAdminAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,690 ERROR [Thread-0] - Unknown SNMP data type: InetAddressPrefixLength (of node fnAdminMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,690 INFO  [Thread-0] - MIB module FORTINET-CORE-MIB has been added
+2018-11-17 08:32:16,726 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fnAdminAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,727 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fnAdminAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,727 ERROR [Thread-0] - Unknown SNMP data type: InetAddressPrefixLength (of node fnAdminMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,728 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fgVdTpMgmtAddrType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,729 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fgVdTpMgmtAddr).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,730 ERROR [Thread-0] - Unknown SNMP data type: InetAddressPrefixLength (of node fgVdTpMgmtMask).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,731 ERROR [Thread-0] - Unknown SNMP data type: Ipv6Address (of node fgManIfIp6).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,733 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWebCacheDiskLimit).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,734 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWebCacheDiskUsage).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,735 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptLanTraffic).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,736 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptWanTraffic).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,739 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptDiskLimit).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,739 INFO  [main] - frame created
+2018-11-17 08:32:16,740 ERROR [Thread-0] - Unknown SNMP data type: CounterBasedGauge64 (of node fgWanOptDiskUsage).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,741 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgIpSessFromPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,742 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgIpSessToPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,743 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntRemGwyPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,744 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntLocGwyPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,745 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntSelectorSrcPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,746 ERROR [Thread-0] - Unknown SNMP data type: InetPortNumber (of node fgVpnTunEntSelectorDstPort).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,748 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fgWcWtpSessionWtpIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,749 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fgWcWtpSessionWtpIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,750 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fgWcWtpSessionWtpLocalIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,751 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fgWcWtpSessionWtpLocalIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,751 ERROR [Thread-0] - Unknown SNMP data type: InetAddressType (of node fgWcStaIpAddressType).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,752 ERROR [Thread-0] - Unknown SNMP data type: InetAddress (of node fgWcStaIpAddress).
+The corresponding MIB need to be placed in the same directory or loaded beforehand.
+2018-11-17 08:32:16,752 INFO  [Thread-0] - MIB module FORTINET-FORTIGATE-MIB has been added
+2018-11-17 08:32:16,829 INFO  [Thread-0] - Loading time = 262
+2018-11-17 08:32:29,104 INFO  [AWT-EventQueue-0] - Shutting down...
+2018-11-17 08:32:29,106 INFO  [AWT-EventQueue-0] - Saved data to /home/chicolir/.imibrowser/trapd.xml
+2018-11-17 08:32:29,107 INFO  [AWT-EventQueue-0] - Saved config to /home/chicolir/.imibrowser/mibbrowser.xml
